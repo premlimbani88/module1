@@ -1,0 +1,44 @@
+ 1. What is software? What is software engineering? 
+ANS: software is a general term for the verision kind of problem used to operate computer and related devices.
+ 
+*   what is software engineering?
+ANS: -national infrastructures : utilities,communication,navigation
+     -entertainment : music,movie/television,games
+     -residential : community design,landscaping
+     -science/data collection : biology,chemistry,physics,engineering
+     -socialinteraction : email,social networks,text messaging
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+2.explain types of software
+ANS: 1. application software
+     2. system software
+     3. driver software
+     4. middleware
+     5. programming software
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+3.what is SDLC?explain each phase of SDLC
+ANS: SDLC - software devlopment lifecycles
+ * following are the phases in SDLC
+     1. s/w requirment
+     2. s/w analysis
+     3. s/w designing
+     4. s/w development
+     5. s/w testing (quality assurance) tester
+     6, s/w maintenance
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+4.what is DFD?create a DFD diagram on flipkart
+ANS: DFD - DATA FLOW DAYAGRAM
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+5.what is flow chart?create a flowchart to make addition of two numbers
+ANS: flowchart : "it is a pictorial representation of alogrithms."
+      scenario : to make a addition of two number 
+      step 1 : start
+      step 2 : take inputs (int value 1 and int value 2)
+      step 3 : (int c value 1 + value 2)
+      step 4 : output
+      step 5 : stop
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
